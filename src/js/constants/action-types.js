@@ -1,0 +1,4 @@
+export const ADD_FAV_ITEM = "ADD_FAV_ITEM";
+export const SELECTED_ALBUM = "SELECTED_ALBUM";
+export const REMOVE_FAV_ITEM = "REMOVE_FAV_ITEM";
+export const CLEAR_FAVORITES = "CLEAR_FAVORITES";
